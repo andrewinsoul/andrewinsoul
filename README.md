@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Andrew from Lagos, Nigeria. I am a full-stack developer with over 4 years of experience with proficiency in Python and Javascript
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewinsoul)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrewinsoul/andrewinsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
