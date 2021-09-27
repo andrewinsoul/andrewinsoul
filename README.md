@@ -1,5 +1,5 @@
 <!-- ![]( =250x250) -->
-<img src="https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png" width="3800" height="300" />
+<img src="https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png" width="1800" height="400" />
 
 ### Hi there 👋
 I'm Andrew from Lagos, Nigeria. I am a full-stack developer who has a strong interest in blockchain technology with over 4 years of professional experience. I'm an ardent open minded person who see challenges as an opportunity to grow.
