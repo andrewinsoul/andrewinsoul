@@ -2,7 +2,12 @@
 <img src="https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png" width="3800" height="350" />
 
 ### Hi there 👋
-I'm Andrew from Lagos, Nigeria. I am a full-stack developer with over 4 years of experience with proficiency in Python and Javascript
+I'm Andrew from Lagos, Nigeria. I am a full-stack developer who has a strong interest in blockchain technology with over 4 years of professional experience. I'm an ardent open minded person who see challenges as an opportunity to grow.
+When I am not coding, you can find me writing and making music.
+
+I have worked with different teams like Andela, TeamGrace Healthcare, Quika, PodRoom and others.
+Got an interesting and challenging project you need a developer to jump on, I am a click away.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewinsoul)](https://github.com/anuraghazra/github-readme-stats)
 
