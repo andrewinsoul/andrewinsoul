@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png =250x250)
+<!-- ![](https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png =250x250) -->
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ### Hi there 👋
 I'm Andrew from Lagos, Nigeria. I am a full-stack developer with over 4 years of experience with proficiency in Python and Javascript
