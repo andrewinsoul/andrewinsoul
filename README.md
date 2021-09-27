@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/naturn/image/upload/w_2000,ar_16:9,c_fill,g_auto,e_sharpen/v1632732727/Hi_I_am_Mar_Andrew_zhezsx.png" width=2000 />
+<img src="https://res-console.cloudinary.com/naturn/thumbnails/transform/v1/image/upload//v1632732727/SGlfSV9hbV9NYXJfQW5kcmV3X3poZXpzeA==/drilldown"/>
 
 ### Hi there 👋
 I'm Andrew from Lagos, Nigeria. I am a full-stack developer who has a strong interest in blockchain technology with over 4 years of professional experience. I'm an ardent open minded person who see challenges as an opportunity to grow.
