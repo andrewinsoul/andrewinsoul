@@ -1,5 +1,5 @@
 <!-- ![]( =250x250) -->
-<img src="https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png" width="3800" height="600" />
+<img src="https://raw.githubusercontent.com/andrewinsoul/andrewinsoul/main/Hi%2C%20I%20am%20Mar_Andrew%20.png" width="3800" height="200" />
 
 ### Hi there 👋
 I'm Andrew from Lagos, Nigeria. I am a full-stack developer with over 4 years of experience with proficiency in Python and Javascript
