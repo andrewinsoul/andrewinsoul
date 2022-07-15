@@ -1,7 +1,7 @@
 <!-- <img src="https://res.cloudinary.com/naturn/image/upload/v1632734623/Hi_I_am_Mar_Andrew_e6awac.png"/> -->
 
 ### Hi there 👋
-I'm Andrew from Lagos, Nigeria. I am a full-stack developer who has a strong interest in blockchain technology with over 4 years of professional experience. I'm an ardent open minded person who see challenges as an opportunity to grow.
+I'm Andrew from Lagos, Nigeria. I am a full-stack developer who has a strong interest in blockchain technology with over 5 years of professional experience. I'm an ardent open minded person who see challenges as an opportunity to grow.
 When I am not coding, you can find me writing and making music.
 
 I have worked with different teams like Andela, TeamGrace Healthcare, Quika, PodRoom and others.
